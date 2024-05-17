@@ -7,7 +7,7 @@ This Python script reads an array of numbers from a file, doubles each element, 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your_username/python-array-doubler.git
+   git clone https://github.com/yesrkaya/python-array-doubler.git
 
 2. Navigate to the directory:
 
